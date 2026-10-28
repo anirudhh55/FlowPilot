@@ -184,7 +184,6 @@ TaskFlow/
 ### 1 · Clone & Install
 
 ```bash
-git clone https://github.com/SM8UTI/TaskFlow.git
 cd TaskFlow
 npm install
 ```
@@ -219,10 +218,6 @@ To test the background completion trigger: start a focus session, force-close th
 
 ---
 
-## 📝 License
-
-MIT License — © 2026 **Smruti Ranjan Nayak**
-
 <p align="center">
-  Built with ❤️ for Privacy. <a href="https://sm8uti.com">sm8uti.com</a>
+  Built with ❤️ for Privacy.
 </p>
